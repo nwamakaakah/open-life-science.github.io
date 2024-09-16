@@ -1,0 +1,272 @@
+# Schedule for the openseeds ols-9-catalyst
+---
+timeline:
+- date:
+  description: Call for Application opens
+  details: See the [guidelines and templates](https://github.com/open-life-science/application-forms)
+- date:
+  description: Application webinar
+  type:
+  - Talk
+  - Q&A
+  notes:
+  recording:
+  details: Watch recordings from previous webinars on 
+    [**YouTube**](https://www.youtube.com/playlist?list=PL1CvC6Ez54KBsPT0fhPtkHmBaXR4f8Dqt)
+- date:
+  description: Application Clinic Call
+  type:
+  - Q&A
+  notes:
+  details: At this call, OLS team will be available to provide help if you have any
+    question related to your application
+- date:
+  description: Call for applications closed
+- date:
+  description: Successful applicants announced
+weeks:
+  '00':
+    start: September 09, 2024
+    calls:
+    - duration: 60 min
+      title: Mentor onboarding group 1
+      hosts:
+      - tajuddeen1
+      type: Mentor
+      talks: []
+    - duration: 60 min
+      title: Mentor onboarding group 2
+      hosts:
+      - tajuddeen1
+      type: Mentor
+      talks: []
+  '01':
+    start: September 16, 2024
+    calls:
+    - duration: 30 min
+      title: 1st mentor-mentee meeting
+      type: Mentor-Mentee
+      talks: []
+    - duration: 180 min
+      title: Mentor Skill Workshop by 360 Training - Group 1
+      type: Mentor
+      talks: []
+    - duration: 180 min
+      title: Mentor Skill Workshop by 360 Training - Group 2
+      type: Mentor
+      talks: []
+  '02':
+    start: September 23, 2024
+    calls:
+    - date: September 25, 2024
+      duration: 90 min
+      notes: https://bit.ly/ols-OLS-9 Catalyst Track Cohort-week-02
+      title: Welcome to Open Seeds & Tooling for Project Design
+      hosts:
+      - tajuddeen1
+      type: Cohort
+      talks: []
+  '03':
+    start: September 30, 2024
+    calls:
+    - duration: 30 min
+      title: 2nd mentor-mentee meeting
+      type: Mentor-Mentee
+      talks: []
+    - date: October 02, 2024
+      title: Informal Office Hour
+      hosts:
+      - tajuddeen1
+      type: Q&A
+      talks: []
+  '04':
+    start: October 07, 2024
+    calls:
+    - date: October 09, 2024
+      duration: 90 min
+      notes: https://bit.ly/ols-OLS-9 Catalyst Track Cohort-week-04
+      title: Tooling for Open Collaboration
+      hosts:
+      - malvikasharan
+      type: Cohort
+      talks: []
+  '05':
+    start: October 14, 2024
+    calls:
+    - duration: 30 min
+      title: 3rd mentor-mentee meeting
+      type: Mentor-Mentee
+      talks: []
+    - date: October 16, 2024
+      duration: 90 min
+      notes: https://bit.ly/ols-OLS-9 Catalyst Track Cohort-week-05
+      title: GitHub tutorial for beginners
+      hosts:
+      - tajuddeen1
+      type: Skill-up
+      talks: []
+  '06':
+    start: October 21, 2024
+    calls:
+    - date: October 23, 2024
+      duration: 90 min
+      notes: https://bit.ly/ols-OLS-9 Catalyst Track Cohort-week-06
+      title: Open Science Garden I
+      hosts:
+      - malvikasharan
+      type: Cohort
+      talks: []
+  '07':
+    start: October 28, 2024
+    calls:
+    - duration: 30 min
+      title: 4th mentor-mentee meeting
+      type: Mentor-Mentee
+      talks: []
+    - date: October 30, 2024
+      duration: 30 min
+      notes: https://bit.ly/ols-OLS-9 Catalyst Track Cohort-week-07
+      title: Open Leadership in Practice
+      hosts:
+      - tajuddeen1
+      type: Skill-up
+      talks: []
+  '08':
+    start: November 04, 2024
+    calls:
+    - date: November 06, 2024
+      duration: 90 min
+      notes: https://bit.ly/ols-OLS-9 Catalyst Track Cohort-week-08
+      title: Community Management Café I
+      hosts:
+      - malvikasharan
+      type: Cohort
+      talks: []
+  '09':
+    start: November 11, 2024
+    calls:
+    - duration: 30 min
+      title: 5th mentor-mentee meeting
+      type: Mentor-Mentee
+      talks: []
+    - date: November 13, 2024
+      duration: 90 min
+      notes: https://bit.ly/ols-OLS-9 Catalyst Track Cohort-week-09
+      title: 'Tooling for Collaboration: Open-source software in practice'
+      hosts:
+      - tajuddeen1
+      type: Skill-up
+      talks: []
+  '10':
+    start: November 18, 2024
+    calls:
+    - date: November 20, 2024
+      duration: 90 min
+      notes: https://bit.ly/ols-OLS-9 Catalyst Track Cohort-week-10
+      title: Open Science Garden II
+      hosts:
+      - tajuddeen1
+      type: Cohort
+      talks: []
+  '11':
+    start: November 25, 2024
+    calls:
+    - duration: 30 min
+      title: 6th mentor-mentee meeting
+      type: Mentor-Mentee
+      talks: []
+    - date: November 27, 2024
+      duration: 90 min
+      notes: https://bit.ly/ols-OLS-9 Catalyst Track Cohort-week-11
+      title: Personal Management
+      hosts:
+      - malvikasharan
+      type: Skill-up
+      talks: []
+  '12':
+    start: December 02, 2024
+    calls:
+    - date: December 04, 2024
+      duration: 90 min
+      notes: https://bit.ly/ols-OLS-9 Catalyst Track Cohort-week-12
+      title: Open Science Garden III
+      hosts:
+      - tajuddeen1
+      type: Cohort
+      talks: []
+  '13':
+    start: December 09, 2024
+    calls:
+    - date: December 11, 2024
+      duration: 30 min
+      notes: https://bit.ly/ols-OLS-9 Catalyst Track Cohort-week-13
+      title: Community Management Café II
+      hosts:
+      - malvikasharan
+      type: Cohort
+      talks: []
+  '14':
+    start: December 16, 2024
+    calls:
+    - duration: 90 min
+      title: 7th mentor-mentee meeting
+      hosts:
+      - tajuddeen1
+      type: Mentor-Mentee
+      talks: []
+  '15':
+    start: January 13, 2025
+    calls:
+    - duration: 30 min
+      title: 8th mentor-mentee meeting
+      type: Mentor-Mentee
+      talks: []
+    - duration: 60 min
+      notes: https://bit.ly/ols-OLS-9 Catalyst Track Cohort-week-15
+      title: Final presentation rehearsal - Group 1
+      hosts:
+      - tajuddeen1
+      type: Skill-up
+      talks: []
+    - duration: 60 min
+      notes: https://bit.ly/ols-OLS-9 Catalyst Track Cohort-week-15
+      title: Final presentation rehearsal - Group 2
+      hosts:
+      - tajuddeen1
+      type: Skill-up
+      talks: []
+    - duration: 60 min
+      notes: https://bit.ly/ols-OLS-9 Catalyst Track Cohort-week-15
+      title: Final presentation rehearsal - Group 3
+      hosts:
+      - tajuddeen1
+      type: Skill-up
+      talks: []
+  '16':
+    start: January 20, 2025
+    calls:
+    - duration: 60 min
+      notes: https://bit.ly/ols-OLS-9 Catalyst Track Cohort-week-16
+      title: Final presentations & Graduation! - Group 1
+      hosts:
+      - tajuddeen1
+      type: Cohort
+      talks: []
+    - duration: 60 min
+      notes: https://bit.ly/ols-OLS-9 Catalyst Track Cohort-week-16
+      title: Final presentations & Graduation! - Group 2
+      hosts:
+      - tajuddeen1
+      type: Cohort
+      talks: []
+    - duration: 60 min
+      notes: https://bit.ly/ols-OLS-9 Catalyst Track Cohort-week-16
+      title: Final presentations & Graduation! - Group 3
+      hosts:
+      - tajuddeen1
+      type: Cohort
+      talks: []
+    - duration: 30 min
+      title: 8th mentor-mentee meeting
+      type: Mentor-Mentee
+      talks: []

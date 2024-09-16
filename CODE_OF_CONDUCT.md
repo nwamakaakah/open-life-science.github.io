@@ -1,4 +1,4 @@
-As a community we welcome everyone, and encourage a friendly and positive environment.
+This project, as part of the **Open Life Science community**, is committed to providing a **welcoming, friendly, and harassment-free** environment for everyone to **learn and grow by contributing**. As a result, we require participants to follow our **code of conduct**.
 
 This code of conduct outlines our expectations for participants within the
 community, as well as steps to reporting unacceptable behavior. We are committed
@@ -71,10 +71,10 @@ disabilities.
 
 If you experience or witness unacceptable behavior, or have any other concerns,
 please report it by contacting the organisers - Bérénice, Malvika and Yo.
-(team@openlifesci.org).
+(team@we-are-ols.org).
 
 To report an issue involving one of the members, please email one of the members individually
-(berenice@openlifesci.org, malvika@openlifesci.org, yo@openlifesci.org).
+(berenice@we-are-ols.org, malvika@we-are-ols.org, yo@we-are-ols.org).
 
 All reports will be handled with discretion. In your report please include:
 
